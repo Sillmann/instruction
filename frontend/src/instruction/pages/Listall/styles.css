@@ -1,0 +1,21 @@
+.all-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff
+}  
+
+li {
+  list-style-type: none;
+} 
+
+.all-list {
+  margin-left: 32px;
+}
+
+.all-button {
+  margin-left: 16px;
+  margin-right: 16px;
+}

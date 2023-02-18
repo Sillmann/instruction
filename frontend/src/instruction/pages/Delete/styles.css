@@ -1,0 +1,29 @@
+.del-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff
+}  
+
+.del-input {
+  margin-top: 2rem;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.del-input-title {
+  border: none;  
+  width: 500px;
+}
+
+.del-input-area{
+  width: 500px;
+  height: 200px;
+  resize: none;
+  border: none;
+}
